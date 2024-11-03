@@ -1,3 +1,5 @@
 # Customer-Churn-Analysis
 Telco Customer Churn
-I download this dataset from Kaggle - https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
+I download the dataset of Telco Customer Churn from Kaggle - https://www.kaggle.com/datasets/blastchar/telco-customer-churn
